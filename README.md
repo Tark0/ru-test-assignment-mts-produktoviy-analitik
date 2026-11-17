@@ -1,5 +1,6 @@
 # ru-test-assignment-mts-produktoviy-analitik
 # Тестовое задание: Продуктовый аналитик (МТС Банк)
+# Стек: Postgresql 18, Microsoft Excel 2021
 
 * **Исходное задание:** https://github.com/Hexlet/ru-test-assignments/tree/main/analytics/mts-produktovyj-analitik#задача-3
 * **Результат:** Все 3 задачи из трёх были успешно выполнены.
