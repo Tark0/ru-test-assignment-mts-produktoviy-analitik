@@ -1,0 +1,1 @@
+# ru-test-assignment-mts-produktoviy-analitik
